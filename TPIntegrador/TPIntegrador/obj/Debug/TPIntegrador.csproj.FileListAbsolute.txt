@@ -1,0 +1,18 @@
+C:\Users\Ursula\Desktop\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.exe.config
+C:\Users\Ursula\Desktop\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.exe
+C:\Users\Ursula\Desktop\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.pdb
+C:\Users\Ursula\Desktop\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Ursula\Desktop\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.exe
+C:\Users\Ursula\Desktop\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.pdb
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.exe.config
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.exe
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.pdb
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.exe
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.pdb
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion - copia\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.exe.config
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion - copia\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.exe
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion - copia\TPIntegrador\TPIntegrador\bin\Debug\TPIntegrador.pdb
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion - copia\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion - copia\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.exe
+C:\Users\Ursula\Desktop\TPIntegrador - Planera Ursula - Comision 7 - Algoritmos y Programacion - copia\TPIntegrador\TPIntegrador\obj\Debug\TPIntegrador.pdb
